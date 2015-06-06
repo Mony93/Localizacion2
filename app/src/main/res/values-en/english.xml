@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ubication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activar">enabled</string>
+    <string name="desactivar">disable</string>
+    <string name="estadoprov">state proveder</string>
+    <string name="posicion_actual">Position</string>
+</resources>
